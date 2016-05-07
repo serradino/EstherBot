@@ -1,7 +1,7 @@
 {
     "HI": "Hi! \n I’m Johrny I will help you not to miss your stop during your journey. \nYou can rely on me on both daily and one-time routes on public transports. \nLet me know your habits, where you leave from and where you go. \nPlease, write your city or your zip code.",
     "OTHER CITY": "Oh I'm sorry, please write city, country and zip code.",
-    "MILAN": "Oh, Milan, Italy right? Nice! The City of the famous Teatro alla Scala! \n (https://media.giphy.com/media/WBiyhRqnzLQdO/giphy.gif)",
+    "MILAN": "Oh, Milan, Italy right? Nice! The City of the famous Teatro alla Scala! \n! %[milan](https://media.giphy.com/media/WBiyhRqnzLQdO/giphy.gif)",
     "YES": "Good! please, tell me the station you start from.",
     "MOSCOVA": "Where do you want to get off?",
     "PIOLA": "At what time do you think you will be on the train?",
