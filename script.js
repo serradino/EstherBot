@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hi, I’m Johrny I will help you not to miss your stop during your journey. You can rely on me on both daily and one-time routes on public transports. Let me know your habits, where you leave from and where you go')
+            return bot.say('Hey nice to e-meet you! \nI’m Johrny I will help you not to miss your stop during your journey. \nYou can rely on me on both daily and one-time routes on subways and trains. \nLet me know your habits, the stations you start from and go to, when and I will tell you where to get-off, so you can relax and enjoy your journey. \nPlease, tell your city or your zip code.')
                 .then(() => 'speak');
         }
     },
