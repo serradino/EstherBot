@@ -13,9 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hi, I’m Johrny I will help you not to miss your stop during your journey.
-You can rely on me on both daily and one-time routes on public transports.
-Let me know your habits, where you leave from and where you go')
+            return bot.say('Hi, I’m Johrny I will help you not to miss your stop during your journey. You can rely on me on both daily and one-time routes on public transports. Let me know your habits, where you leave from and where you go')
                 .then(() => 'speak');
         }
     },
