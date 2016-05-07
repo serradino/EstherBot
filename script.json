@@ -1,7 +1,7 @@
 {
     "BOT": "Hi! \n I’m Johrny I will help you not to miss your stop during your journey. \nYou can rely on me on both daily and one-time routes on public transports. \nLet me know your habits, where you leave from and where you go. \nPlease, write your city or your zip code.",
     "OTHER CITY": "Oh I'm sorry, please write city, country and zip code.",
-    "MILAN": "Oh, Milan, Italy right? Nice! The City of the famous Teatro alla Scala! Where do you want to get off? %[Tell her](postback:twitter) %[Correct](postback:start station) %[Wrong city](postback:Other City)",
+    "MILAN": "Oh, Milan, Italy right? Nice! The City of the famous Teatro alla Scala! Where do you want to get off? %[Correct](postback:twitter) %[Correct](postback:start station) %[Wrong city](postback:Other City)",
     "START STATION": "Good! please, tell me the station you start from.",
     "MOSCOVA": "Where do you want to get off?",
     "PIOLA": "At what time do you think you will be on the train?",
