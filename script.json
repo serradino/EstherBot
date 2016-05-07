@@ -1,29 +1,16 @@
 {
-    "BOT": "Hi! \n I’m Johrny I will help you not to miss your stop during your journey. \nYou can rely on me on both daily and one-time routes on public transports. \n Let me know your habits, where you leave from and where you go. \n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "MILAN": "Oh, Milan, Italy? Nice! The City of the famous Teatro alla Scala, right? %[YES](postback:start station) %[NO](postback:other city)",
+    "BOT": "Hi! \n I’m Johrny I will help you not to miss your stop during your journey. \nYou can rely on me on both daily and one-time routes on public transports. \nLet me know your habits, where you leave from and where you go. \nPlease, write your city or your zip code.",
     "OTHER CITY": "Oh I'm sorry, please write city, country and zip code.",
- 
-    "START STATION": "Good! please, tell me the station you start from.\n I memorized all the stations of M1, M2, M3, M5.",
+    "MILAN": "Oh, Milan, Italy right? Nice! The City of the famous Teatro alla Scala! Where do you want to get off? %[START STATION](postback:ONCE ONLY) %[WRONG](postback:ONCE ONLY)",
+    "START STATION": "Good! please, tell me the station you start from.",
     "MOSCOVA": "Where do you want to get off?",
     "PIOLA": "At what time do you think you will be on the train?",
-    "AROUND 9AM": "Got it! How often do you want to be alerted? %[ONCE ONLY](postback:ONCE ONLY) %[ON WORKING DAYS](postback:ON WORKING DAYS) %[AT WEEKENDS](postback:AT WEEKENDS) %[EVERYDAY](postback:EVERYDAY)",
- 
-    "TELL HER": " %[Tweet Esther](http://bit.ly/estherbot-tweet)",
+    "AROUND 9AM": "Got it! How often do you want to be alerted?\n %[ONCE ONLY](postback:ON WORKING DAYS) %[ON WORKING DAYS](postback:ON WORKING DAYS) %[AT WEEKENDS](postback:ON WORKING DAYS) %[EVERYDAY](postback:ON WORKING DAYS)",
+    "ON WORKING DAYS":" Ok, thanks!  I will remind your stop on working days. See you tomorrow!",
+    "THE DAY AFTER":" Good morning Tom! \nRemember to catch your train in 30 minutes! \nPlease, tell me when you get on the train.\n %[OK, I’m On the train.](postback:ON BOARD)",
+    "ON BOARD":" Perfect! This is today news I selected for you:",
+  
     "I LOVE YOU": "Awh, shucks! I love you too!",
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
