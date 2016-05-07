@@ -1,14 +1,14 @@
 {
     "HI": "Hi! \n I’m Johrny I will help you not to miss your stop during your journey. \nYou can rely on me on both daily and one-time routes on public transports. \nLet me know your habits, where you leave from and where you go. \nPlease, write your city or your zip code.",
     "OTHER CITY": "Oh I'm sorry, please write city, country and zip code.",
-    "MILAN": "Oh, Milan, Italy right? Nice! The City of the famous Teatro alla Scala! \n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg) \n![milan](https://raw.githubusercontent.com/serradino/EstherBot/johrny/img/giphy.gif)",
+    "MILAN": "Oh, Milan, Italy right? Nice! The City of the famous Teatro alla Scala! \n![milan](https://raw.githubusercontent.com/serradino/EstherBot/johrny/img/giphy.gif)",
     "YES": "Good! please, tell me the station you start from.",
     "MOSCOVA": "Where do you want to get off?",
     "PIOLA": "At what time do you think you will be on the train?",
     "AROUND 9AM": "Got it! How often do you want to be alerted?",
     "ON WORKING DAYS":" Ok, thanks!  I will remind your stop on working days. See you tomorrow!",
     "(THE DAY AFTER)":" Good morning Michele! \nRemember to catch your train in 30 minutes! \nPlease, tell me when you get on the train.",
-    "I'M ON BOARD":" Perfect! This is today news I selected for you:\n In theaters now Cats Wars, the new thrilling movie by Meow SoftLucas =[^_^]= \n! [esther](https://raw.githubusercontent.com/serradino/EstherBot/johrny/img/giphy-1.gif)",
+    "I'M ON BOARD":" Perfect! This is today news I selected for you:\n In theaters now Cats Wars, the new thrilling movie by Meow SoftLucas =[^_^]= \n![esther](https://raw.githubusercontent.com/serradino/EstherBot/johrny/img/giphy-1.gif)",
     "NICE":"Hi Tom! Your stop is the next one! Got it?",
   
     "I LOVE YOU": "Awh, shucks! I love you too!",
