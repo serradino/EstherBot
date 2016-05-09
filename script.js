@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`I'm sorry, I didn't understand that. I'm only a prototype built for the ProtoHack Milano.`).then(() => 'speak');
+                    return bot.say(`I'm sorry, I didn't understand that. I'm only a prototype built for the ProtoHack Milano. If you want to try the demo write the sentence in the parenthesis.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
